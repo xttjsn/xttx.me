@@ -108,4 +108,4 @@ I didn't open a terminal. I didn't open a text editor. I talked.
 
 Brian, just try it. Fifteen minutes. If it doesn't change how you think about AI tooling, I'll buy you coffee.
 
-*— Andrew*
+*— XTT*

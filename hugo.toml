@@ -10,7 +10,7 @@ buildDrafts = false
 
 [params]
   env = "production"
-  author = "Andrew Wood"
+  author = "XTT"
   description = "Thoughts on AI, experiments, and building things."
   defaultTheme = "auto"
   ShowReadingTime = true
