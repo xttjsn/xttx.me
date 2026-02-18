@@ -36,7 +36,7 @@ jobs:
           fetch-depth: 0
 
       - name: Build
-        run: hugo --minify --baseURL "https://xttx.me/"
+        run: hugo --minify --baseURL "https://www.xttx.me/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
